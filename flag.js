@@ -1,4 +1,4 @@
-#!/usr/local/bin env node
+#!/usr/bin/env node
 
 const chalk = require('chalk');
 const flag = () =>{
